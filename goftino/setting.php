@@ -30,7 +30,7 @@
                 <?php  if ( !$widget_id ) { ?>                برای نصب ابزارک گفتینو در سایتتان فقط یک قدم باقیست. اکنون
                 <?php } ?>
                    در پنل مدیریت سامانه، به صفحه
-                <a href="https://www.goftino.com/app/?go=widget" target="_blank">نصب ابزارک</a>
+                <a href="https://my.goftino.com/app/?go=widget" target="_blank">نصب ابزارک</a>
                 مراجعه و شناسه 6 حرفی گفتینو خود را در کادر زیر وارد کنید.
             </p>
             <br>
@@ -73,7 +73,7 @@
         </div>
 	<?php  if ( $widget_id ) { ?>
         <br><div class="goftino">
- برای شروع پاسخگویی به کاربران، شخصی سازی ابزارک، مدیریت اپراتورها و استفاده از سایر امکانات گفتینو، وارد <a href="https://www.goftino.com/login" target="_blank">پنل مدیریت سامانه</a> شوید.
+ برای شروع پاسخگویی به کاربران، شخصی سازی ابزارک، مدیریت اپراتورها و استفاده از سایر امکانات گفتینو، وارد <a href="https://my.goftino.com" target="_blank">پنل مدیریت سامانه</a> شوید.
             <br><br>
         </div>
 

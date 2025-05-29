@@ -3,8 +3,8 @@ Contributors: goftino
 Donate link: https://www.goftino.com/contact
 Tags: online chat, farsi chat, goftino, online support, گفتینو
 Requires at least: 3.6
-Tested up to: 6.5
-Stable tag: 1.7.0
+Tested up to: 6.8
+Stable tag: 1.8.0
 Requires PHP: 5.2.4
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -53,6 +53,8 @@ Optimization for cache plugins
 Edit some links
 = 1.7 =
 New types for loading widget
+= 1.8 =
+Fix css file error
 
 == Upgrade Notice ==
 
@@ -72,3 +74,5 @@ Optimization for cache plugins
 Edit some links
 = 1.7 =
 New types for loading widget
+= 1.8 =
+Fix css file error

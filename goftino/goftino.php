@@ -5,7 +5,7 @@
  * Author: Ali Rahimi
  * Plugin URI: https://www.goftino.com
  * Description: افزونه گفتینو | با کاربران خود آنلاین صحبت کنید ، پشتیبانی کنید و از فروش بیشتر لذت ببرید
- * Version: 1.7
+ * Version: 1.8
  *
  * Text Domain:   goftino
  * Domain Path:   /
@@ -51,8 +51,6 @@ function goftinoPreferences() {
         goftino::getInstance()->save();
     }
     load_plugin_textdomain('goftino');
-    wp_register_style('goftino_style', plugins_url('goftino.css', __FILE__));
-    wp_enqueue_style('goftino_style');
     echo goftino::getInstance()->render();
 }
 function wp_save_goftino() {
