@@ -3,7 +3,7 @@ Contributors: goftino
 Donate link: https://www.goftino.com/contact
 Tags: online chat, farsi chat, goftino, online support, گفتینو
 Requires at least: 3.6
-Tested up to: 6.8
+Tested up to: 7.0
 Stable tag: 1.8.0
 Requires PHP: 5.2.4
 License: GPLv2 or later
